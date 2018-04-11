@@ -12,4 +12,5 @@
   * [Rules](implementation/rules.md)
   * [Integrations](implementation/integrations.md)
   * [Access Rights](implementation/access_rights.md)
+* [Upgrade from 6.x to 7.x](upgrade-from-6x-to-7x.md)
 
